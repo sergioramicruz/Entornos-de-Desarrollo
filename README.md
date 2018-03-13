@@ -1,2 +1,2 @@
-# Entornos-de-Desarrollo
-Trabajos de Entornos sobre la Optimización y Documentacion
+# Entornos de Desarrollo
+Trabajos de Entornos de Desarrollo sobre la Optimización y Documentación
